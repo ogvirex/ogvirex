@@ -1,22 +1,15 @@
 <div align="center">
   <img src="assets/virex-profile.png" width="280" alt="Virex developer logo">
   <h1>Virex</h1>
-  <p><strong>Native Android. Music made simple.</strong></p>
-  <p>Building Virex Music — discover new tracks, collect your favorites, and take your playlists offline.</p>
-  <p><a href="https://github.com/ogvirex/virex-music">Explore Virex Music</a> · <a href="https://github.com/ogvirex/virex-music/releases">Downloads</a> · <a href="https://github.com/ogvirex/virex-music/issues">Feedback</a></p>
+  <p><strong>Independent software development. Built with purpose.</strong></p>
+  <p>Creating apps and tools with thoughtful design, reliable performance, and a focus on everyday use.</p>
+  <p><a href="https://github.com/ogvirex?tab=repositories">Projects</a> · <a href="https://ogvirex.github.io/virex-music/">Virex Music</a></p>
 </div>
 
-## Virex Music
+## Featured project
 
-A native Android music app built with Kotlin, Jetpack Compose, and Media3.
+### [Virex Music](https://github.com/ogvirex/virex-music)
 
-- Discover music and start Virex Radio from a track.
-- Save individual songs or whole playlists for offline listening.
-- Follow synchronized lyrics when available.
-- Build playlists, like songs, and revisit listening history.
-- Edit the queue and control playback from Android's media controls.
-- Choose your accent color, audio quality, and optional visualizer.
+A native Android music app for discovery, playlists, lyrics, and offline listening. Built with Kotlin, Jetpack Compose, and Media3.
 
-**Android 8.0+ · No in-app ads · No account required**
-
-Source, build instructions, release notes, and issue tracking live in the [Virex Music repository](https://github.com/ogvirex/virex-music).
+[Download](https://github.com/ogvirex/virex-music/releases/latest) · [Explore the app](https://ogvirex.github.io/virex-music/) · [Feedback](https://github.com/ogvirex/virex-music/issues)
