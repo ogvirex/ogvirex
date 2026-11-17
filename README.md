@@ -3,6 +3,7 @@
   <h1>Virex</h1>
   <p><strong>Independent software development. Built with purpose.</strong></p>
   <p>Creating apps and tools with thoughtful design, reliable performance, and a focus on everyday use.</p>
+  <p><img src="https://komarev.com/ghpvc/?username=ogvirex&amp;label=Profile%20views&amp;color=2563eb&amp;style=flat-square" alt="Profile views"></p>
   <p><a href="https://github.com/ogvirex?tab=repositories">Projects</a> · <a href="https://ogvirex.github.io/virex-music/">Virex Music</a> · <a href="https://t.me/Virex_Devs">Telegram updates</a></p>
 </div>
 
